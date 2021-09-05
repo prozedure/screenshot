@@ -1,4 +1,4 @@
-module github.com/kbinani/screenshot
+module github.com/prozedure/screenshot
 
 go 1.16
 
